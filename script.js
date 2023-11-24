@@ -108,6 +108,30 @@ const Quotes =  [
             quote: "You must be the change you wish to see in the world.",
             author: ' Mahatma Gandhi'
         },
+        {
+            quote: "Joy is the feeling of grinning on the inside.",
+            author: "Melba colgrove"
+        },
+        {
+            quote: "Be yourself; everyone else is already taken.",
+            author: "Oscar Wilde"
+        },
+        {
+            quote: "In the end, it's not the years in your life that count. It's the life in your years.",
+            author: "Abraham Lincoln"
+        },
+        {
+            quote: "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+            author: "Thomas A. Edison"
+        },
+        {
+            quote: "A goal without a plan is just a wish.",
+            author: "Larry Elder"
+        },
+        {
+            quote: "Either you run the day, or the day runs you." ,
+            author: "Jim Rohn"
+        }
     ];
 
    function BringRandomQuotes() {
